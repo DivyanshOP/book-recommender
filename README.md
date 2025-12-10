@@ -9,4 +9,4 @@ This project does not ship with `similarity_scores.pkl` (it is ~300MB).
 After installing requirements, run:
 
 ```bash
-python similarity_genrator.py
+python similarity_generator.py
