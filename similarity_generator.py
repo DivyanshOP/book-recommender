@@ -11,7 +11,7 @@ def space_fixer(text):
         L.append(i.replace(" ",""))
         return L
 def main():
-    books = pd.read_csv("Datasets/data.csv")
+    books = pd.read_csv("data.csv")
     books = books[['title','authors','categories','thumbnail','description','published_year','average_rating','ratings_count']]
     books.dropna(inplace=True)
     
