@@ -1,5 +1,8 @@
-# book-recommender
-A book recommender system which recommends 5 similar books based on plot, era, and rating. (using this dataset: https://www.kaggle.com/datasets/abdallahwagih/books-dataset)
+
+# 📚 Book Recommender System
+
+🚀 **Live Demo:** : https://book-recommender-div.streamlit.app/
+🔎 Recommends books based on description, authors, categories, year and ratings.
 
 
 ### Generating similarity scores
